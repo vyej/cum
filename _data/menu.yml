@@ -7,19 +7,19 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category123
+  - title: posts by poems
     post_list:
-      category: 123
-      limit: 3
+      category: po
+      limit: 1
       show_more: true
       show_more_text: See more posts...
-      show_more_url: 123-archive.html
+      show_more_url: po-archive.html
 
 
-  - title: posts by category456
+  - title: posts by interpretation
     post_list:
-      category: 456
-      limit: 3
+      category: po
+      limit: 1
       show_more: true
       show_more_text: See more posts...
-      show_more_url: 456-archive.html
+      show_more_url: in-archive.html
