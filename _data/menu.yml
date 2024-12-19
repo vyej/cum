@@ -23,3 +23,12 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: in-archive.html
+
+
+  - title: posts by papers
+    post_list:
+      category: papers
+      limit: 1
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: pa-archive.html
